@@ -1,0 +1,12 @@
+server:
+  # 服务端口
+  port: 5555
+storage:
+  # 文件保存路径
+  file_path: upload/
+  # 数据库文件路径
+  db_file: data.db
+# 内网地址
+part_domain: http://192.168.3.130:5555
+# 外网地址
+public_domain: http://11111:5555
